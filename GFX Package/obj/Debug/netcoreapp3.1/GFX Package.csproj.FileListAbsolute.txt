@@ -1,0 +1,22 @@
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\GFX Package.exe
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\GFX Package.deps.json
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\GFX Package.runtimeconfig.json
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\GFX Package.runtimeconfig.dev.json
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\GFX Package.dll
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\GFX Package.pdb
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hamed\source\repos\GFX Package\GFX Package\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.csproj.AssemblyReference.cache
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX_Package.Form1.resources
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.csproj.GenerateResource.cache
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.AssemblyInfoInputs.cache
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.AssemblyInfo.cs
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.csproj.CoreCompileInputs.cache
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.csproj.CopyComplete
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.dll
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.pdb
+C:\Users\hamed\source\repos\GFX Package\GFX Package\obj\Debug\netcoreapp3.1\GFX Package.genruntimeconfig.cache

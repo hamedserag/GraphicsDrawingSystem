@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "t+bG84LhLx4Bev667I+rsekYjfSllaMgfZMLoGnWfT40j6LzY45BuKmKMKl/w68TJCFiPy7+NrJd7Pwo7criQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hamed\\source\\repos\\GFX Package\\GFX Package\\GFX Package.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamed\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\hamed\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\hamed\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
